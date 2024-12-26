@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Tmr :´(');
+    alert('Ya lo sabía, igual te respeto como persona rskt');
 });
 
 const noBtn = document.querySelector('#noBtn');
